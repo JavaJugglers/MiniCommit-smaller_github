@@ -60,7 +60,3 @@ Use `java gitlet.Main [command]` to execute any command.
 
 - Branches and merging form a core functionality of MiniCommit.
 - Project requires Java programming language and standard Java libraries.
-
----
-
-This README provides a concise overview of the MiniCommit project, outlining its purpose, key features, and a brief on commands and testing. For detailed instructions and specifications, refer to the project documentation.
