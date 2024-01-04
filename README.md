@@ -55,8 +55,3 @@ Includes integration and unit tests. Use `testing/tester.py` for running integra
 ## Running Commands
 
 Use `java gitlet.Main [command]` to execute any command.
-
-## Important Notes
-
-- Branches and merging form a core functionality of MiniCommit.
-- Project requires Java programming language and standard Java libraries.
